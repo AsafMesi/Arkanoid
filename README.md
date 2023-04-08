@@ -12,7 +12,7 @@ This is a Java implementation of the classic game Arkanoid, developed as part of
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/AsafMesi/Arkenoid.git  
+1. Clone the repository: git clone https://github.com/AsafMesi/Arkanoid.git  
 2. Open the project from an IDE such as IntelliJ or Visual Studio. 
 3. Add the `biu-oop.jar` file as a global library to the Arkanoid project.
 4. Make sure an updated JDK is set in the configuration for the menu to run on, and click play!
